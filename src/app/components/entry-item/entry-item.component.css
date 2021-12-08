@@ -1,0 +1,16 @@
+.entry {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.entry-left-col {
+  display: flex;
+}
+
+.entry-right-col {
+  display: flex;
+}

@@ -17,6 +17,102 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "dasda",
+      "day": "dadad",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "asdasda",
+      "day": "dasdada",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "aAE2E3",
+      "day": "D332R",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "D2D32D",
+      "day": "D32E2",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "D32D32",
+      "day": "D32D23",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "D32D32D2D",
+      "day": "D32D233",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "3D23D",
+      "day": "D23QWFQ",
+      "reminder": false,
+      "id": 10
+    }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "title": "Salar",
+      "value": 1000,
+      "type": "income",
+      "tag": "Venit",
+      "description": "descriere",
+      "money_account_id": 1,
+      "month": 9,
+      "year": 2021
+    },
+    {
+      "id": 2,
+      "title": "Salar",
+      "value": 1000,
+      "type": "expense",
+      "tag": "Venit",
+      "description": "descriere",
+      "money_account_id": 1,
+      "month": 9,
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "title": "Salar",
+      "value": 1000,
+      "type": "income",
+      "tag": "Venit",
+      "description": "descriere",
+      "money_account_id": 1,
+      "month": 9,
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "title": "Salar",
+      "value": 1000,
+      "type": "income",
+      "tag": "Venit",
+      "description": "descriere",
+      "money_account_id": 1,
+      "month": 9,
+      "year": 2021
+    }
+  ],
+  "money_accounts": [
+    {
+      "id": 1,
+      "name": "Cont ING RON",
+      "currency": "RON",
+      "balance_sheet": 2000
     }
   ]
 }

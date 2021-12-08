@@ -1,0 +1,33 @@
+<div
+  class="entry"
+>
+  <div class="entry-left-col">
+    <div class="entry-type">
+      <fa-icon
+        [icon]="entry.type === 'income' ? faPlus : faMinus">
+      </fa-icon>
+    </div>
+    <div class="entry-value">{{ entry.value }}</div>
+  </div>
+
+  <div class="entry-right-col">
+    <div class="entry-tag">
+      <fa-icon
+        [icon]="faShoppingBag">
+      </fa-icon>
+      <fa-icon
+        [icon]="faShoppingBasket">
+      </fa-icon>
+      <fa-icon
+        [icon]="faPiggyBank">
+      </fa-icon>
+      <fa-icon
+        [icon]="faChartLine">
+      </fa-icon>
+      <fa-icon
+        [icon]="faAmbulance">
+      </fa-icon>
+    </div>
+    <div class="entry-title">{{ entry.title }}</div>
+  </div>
+</div>
